@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aniket Kumar Ghosh
+# 👋 Hi, I'm Aniket
 
 ### Senior Backend Engineer | Node.js • TypeScript • NestJS | Distributed Systems • AI • Cloud
 
